@@ -5,7 +5,7 @@ A real-time object detection project using **YOLOv11** and Python. This tool all
 ## 📁 Project Structure
 
 ```bash
-yolo-object-detector/
+Python-Object-Detector/
 │
 ├── yolov11_detect.py          # Main detection script
 ├── yolov11_colab.ipynb        # (Optional) Colab notebook
